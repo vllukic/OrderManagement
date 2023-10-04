@@ -1,0 +1,7 @@
+#dependecies
+obj
+bin
+
+#production
+build
+wwwwroot
